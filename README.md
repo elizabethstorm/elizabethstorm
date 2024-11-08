@@ -1,6 +1,4 @@
-| ![GitHub Статистика](https://github-readme-stats.vercel.app/api?username=elizabethstorm&show_icons=true&theme=dracula) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethstorm&layout=compact&theme=dracula) |
-|---|---|
-
+|![GitHub Статистика](https://github-readme-stats.vercel.app/api?username=elizabethstorm&show_icons=true&theme=dracula)
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
