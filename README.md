@@ -1,8 +1,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elizabethstorm&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethstorm&layout=compact&theme=radical" alt="Top Languages" />
-  <br/>
+</p>
+
+<p align="center">
   <img src="https://img.icons8.com/color/24/000000/python--v1.png" alt="Python" /> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.icons8.com/color/24/000000/javascript--v1.png" alt="JavaScript" /> 
