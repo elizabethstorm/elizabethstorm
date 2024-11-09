@@ -1,5 +1,3 @@
-# Привет, я [Ваше Имя] 👋
-
 ## 🛠️ Технологии и навыки
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
